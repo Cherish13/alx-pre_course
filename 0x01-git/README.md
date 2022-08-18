@@ -1,1 +1,1 @@
-My name is Ossai Cherish Nneka, I'm interning at alx to become a software developer 
+My name is Ossai Cherish Nneka 
